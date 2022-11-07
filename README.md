@@ -1,4 +1,11 @@
 # decisionTree
 
 Training Results
-<img src="721941.png">
+
+<img src="DecisiomTreeTraingingset.jpg">
+
+Testing Results
+<img src="DecisiomTreeTestingSet.jpg">
+
+Dendrogram
+<img src="dendrogram.jpg">
